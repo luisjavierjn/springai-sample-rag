@@ -1,5 +1,7 @@
 # Simple Spring AI QA application
 
+[Medium article link](https://levelup.gitconnected.com/rag-and-spring-ai-querying-your-own-documents-with-open-ai-54b404eb7d08)  
+
 This project contains a web service with the following endpoints under http://localhost:8080
 
 * POST `/data/load`
